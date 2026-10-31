@@ -54,7 +54,7 @@ ASL session state is stored separately under `~/.asl` and is not automatically r
 
 ## Install a standalone release
 
-Open the [latest GitHub Release](https://github.com/alanoconner/agent-sync-protocol/releases/latest) and download the archive matching your system:
+Open the [latest GitHub Release](https://github.com/alanoconner/agent-sync-layer/releases/latest) and download the archive matching your system:
 
 | System | Release asset |
 |---|---|
@@ -134,8 +134,8 @@ To upgrade, verify and extract the new release, then replace the existing execut
 Source installation is intended for contributors and unreleased builds:
 
 ```bash
-git clone https://github.com/alanoconner/agent-sync-protocol.git
-cd agent-sync-protocol
+git clone https://github.com/alanoconner/agent-sync-layer.git
+cd agent-sync-layer
 npm ci
 npm run build
 npm link

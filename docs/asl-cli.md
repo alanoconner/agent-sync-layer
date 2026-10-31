@@ -12,7 +12,7 @@ Install the published npm package with Node.js 20.12 or newer:
 npm install --global agent-sync-layer
 ```
 
-This exposes both `asl` and `agent-sync`. Standalone Linux x64, Windows x64, macOS x64, and macOS ARM64 archives embed Node.js and are available from [GitHub Releases](https://github.com/alanoconner/agent-sync-protocol/releases/latest). See [Installation](installation.md) for checksums, platform instructions, upgrades, and source installation.
+This exposes both `asl` and `agent-sync`. Standalone Linux x64, Windows x64, macOS x64, and macOS ARM64 archives embed Node.js and are available from [GitHub Releases](https://github.com/alanoconner/agent-sync-layer/releases/latest). See [Installation](installation.md) for checksums, platform instructions, upgrades, and source installation.
 
 Native Windows requires Git for Windows. ASL can be invoked from PowerShell, cmd, or Git Bash; Claude Code itself uses Git Bash for hook commands, while Codex receives its native Windows hook command through `command_windows`. Set `CLAUDE_CODE_GIT_BASH_PATH` only for a nonstandard or portable Git installation that ASL cannot discover.
 

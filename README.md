@@ -34,7 +34,7 @@ With Node.js 20.12 or newer:
 npm install --global agent-sync-layer
 ```
 
-Or download the standalone archive for your operating system from [GitHub Releases](https://github.com/alanoconner/agent-sync-protocol/releases/latest). Standalone builds include Node.js; Git and the coding-agent CLI are still required.
+Or download the standalone archive for your operating system from [GitHub Releases](https://github.com/alanoconner/agent-sync-layer/releases/latest). Standalone builds include Node.js; Git and the coding-agent CLI are still required.
 
 See the [installation guide](docs/installation.md) for macOS, Linux, Windows, checksum verification, upgrades, and source installation.
 

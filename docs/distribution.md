@@ -148,7 +148,7 @@ After the package exists, open its settings on npm and add a GitHub Actions trus
 | npm setting | Value |
 | --- | --- |
 | Organization or user | `alanoconner` |
-| Repository | `agent-sync-protocol` |
+| Repository | `agent-sync-layer` |
 | Workflow filename | `publish-npm.yml` |
 | Environment | `npm` |
 
